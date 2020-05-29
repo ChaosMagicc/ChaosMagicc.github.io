@@ -21,13 +21,13 @@ use_math:
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: jekyll-theme-hacker
+theme: jekyll-theme-console
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
   - jekyll-github-metadata
-show_downloads: false
+
 titles_from_headings:
   enabled:     true
   strip_title: true
